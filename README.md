@@ -20,7 +20,7 @@ Gen-AI_FastApi
     ├── Dockerfile
     ├── index.html
     └── script.js
-    
+```
 # ✅ Prerequisites
 Make sure the following are installed on your system:
 Docker Desktop (Windows / Mac / Linux)
