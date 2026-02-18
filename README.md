@@ -27,25 +27,25 @@ Docker Desktop (Windows / Mac / Linux)
 Docker Compose (comes with Docker Desktop)
 
 # Verify installation:
-```docker --version
-```docker compose version
+docker --version
+docker compose version
 
 # ▶️ Steps to Run the Application
 # 1️⃣ Clone or Download the Project
 
 
-```git clone <repository-url>
-```cd Gen-AI_FastApi
-```cd mongo_db
-```docker compose up --build -d
-```docker compose ps
+git clone <repository-url>
+cd Gen-AI_FastApi
+cd mongo_db
+docker compose up --build -d
+docker compose ps
 
 # Expected containers:
-```mongodb
-```fastapi-app
-```frontend-app
+mongodb
+fastapi-app
+frontend-app
 
 # 🌐 Access the Application
-```md
+
 Frontend UI http://localhost:3000
 API Swagger Docs http://localhost:8000/docs
