@@ -7,6 +7,7 @@ HTML + JavaScript (Frontend)
 Docker & Docker Compose (Containerization)
 
 # Project Structure
+```text
 Gen-AI_FastApi
 │
 ├── mongo_db
@@ -26,13 +27,16 @@ Docker Desktop (Windows / Mac / Linux)
 Docker Compose (comes with Docker Desktop)
 
 # Verify installation:
-
+```md
+```bash
 docker --version
 docker compose version
 
 # ▶️ Steps to Run the Application
 # 1️⃣ Clone or Download the Project
 
+```md
+```bash
 git clone <repository-url>
 cd Gen-AI_FastApi
 cd mongo_db
@@ -44,5 +48,6 @@ fastapi-app
 frontend-app
 
 # 🌐 Access the Application
+```md
 Frontend UI http://localhost:3000
 API Swagger Docs http://localhost:8000/docs
