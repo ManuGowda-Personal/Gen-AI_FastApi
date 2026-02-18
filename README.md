@@ -48,10 +48,11 @@ fastapi-app
 frontend-app
 ```
 # 🌐 Access the Application
-
+```text
 Frontend UI http://localhost:3000
 API Swagger Docs http://localhost:8000/docs
-#Frontend UI
-
-#API Swagger Docs
-
+```
+# Frontend UI
+![Frontend UI](https://github.com/ManuGowda-Personal/Gen-AI_FastApi/blob/21599d2103d0366290365d77ce676da9e89fbe5c/Frontend.png)
+# API Swagger Docs
+![Swagger](https://github.com/ManuGowda-Personal/Gen-AI_FastApi/blob/21599d2103d0366290365d77ce676da9e89fbe5c/FastApi_Swagger.png)
